@@ -2,11 +2,11 @@
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Welcome to the RGrid Machine Learning Challenge!
+Welcome to the RGrid Machine Learning Solution!
 
 ## The Preprocessor
 
-The solution has a text pre-processor which cleans and extracts relevant information form the description column.
+The solution has a text pre-processor which cleans and extracts relevant information from the description column.
 
 It has the following functions -
 
@@ -42,14 +42,14 @@ Random Forest - 91%
 Random Forest was chosen because of its superior performance 
 RF F1 score on test data - 92%
 
+The model file is randomforest.pkl which has been used by the flask app to generate predictions.
+
 Deep Learning Model like RNN would have been a good experiment, however, because of the low number of the observations, it is not a good choice
 
 ## Sample Test using Flask
-python test.py
-
+run python test.py
+O/P -
 Calling API with test description:
-
 Response:
 200
-
 {'prediction': 'Dementia'}
