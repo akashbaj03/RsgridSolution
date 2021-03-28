@@ -43,3 +43,10 @@ Random Forest was chosen because of its superior performance
 RF F1 score on test data - 92%
 
 Deep Learning Model like RNN would have been a good experiment, however, because of the low number of the observations, it is not a good choice
+
+## Sample Test using Flask
+python test.py
+Calling API with test description:
+Response:
+200
+{'prediction': 'Dementia'}
