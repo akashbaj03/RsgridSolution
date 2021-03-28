@@ -1,0 +1,10 @@
+spacy
+re
+unidecode
+word2number
+contractions
+sklearn
+joblib
+json
+flask
+black
