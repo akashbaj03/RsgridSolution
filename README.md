@@ -46,7 +46,10 @@ Deep Learning Model like RNN would have been a good experiment, however, because
 
 ## Sample Test using Flask
 python test.py
+
 Calling API with test description:
+
 Response:
 200
+
 {'prediction': 'Dementia'}
