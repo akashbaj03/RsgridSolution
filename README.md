@@ -2,8 +2,6 @@
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Welcome to the RGrid Machine Learning Solution!
-
 ## The Preprocessor
 
 The solution has a text pre-processor which cleans and extracts relevant information from the description column.
